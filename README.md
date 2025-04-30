@@ -1,4 +1,4 @@
-**Note:** This is a work in progress, and the report should be considered a draft at this point. 
+**Note:** This is a work in progress, and the report should be considered a draft at this point. Especially the content in the Trash section. 
 
 This project came to life when I, out of the blue, hit a serious case of certification fatigue. At that point I had been in the IT consultant industry for 6 months, and it had been 6 months of taking courses, with an explicit expectation from the management that I should get as many certifications as I possible. 
 
@@ -6,10 +6,10 @@ For a long time I had enjoyed it, learning things I had had on my wish-list for 
 
 I decided that whatever I was to spend the next days or weeks on, it should ideally not be *useful*. The more useless, the better. 
 
-After searhing around for a good dataset, I ended up with these two similar data sets from Stavanger. I decided to explore them further because they had some qualities I found appealing: 
-- the data seems to be pretty much useless for me. I don't drive, and I have only been in Stavanger once in my life, so the data is irrelevant for me in every possible way. 
-- the data has a lot of observations: 24 each day for 2 years for 9 different parking lots. So I figured it had some potential when it came to plotting and finding (visual) patterns.
-- I have no prior knowledte of Stavanger or where these parking lots are. For example, I would assume a parking lot in the city center has more traffic than some remote parking lot, but I have no clue which lot in the data sets are remote or not.
-- the data is not very complex, so I did not have to spend time reading up on terms to find out what a column "really means". I could just go straight to the things I wanted to: exploration! 
+After searching for a good dataset (wihtout having any idea what "good" would mean in this context), I ended up with these two similar data sets from Stavanger. I decided to explore them further because they had some qualities I found appealing: 
+- the data seems to be pretty much useless for me. I don't drive, and I have only been in Stavanger once in my life. The data is irrelevant for me in every possible way, which I hoped would mean the pressure for doing something "usefull" would be minimal.
+- the data has a lot of observations: 24 per day for 2 years across 9 different parking lots. So I hoped this meant it had  potential when it came to plotting and finding (visual) patterns.
+- I have no prior knowledge of Stavanger or where these parking lots are. For example, I would assume a parking lot in the city center has more traffic than some remote parking lot, but I have no clue which lot in the data sets that falls into this category (if any).
+- the data is fairly simple. I did not have to spend time reading up on domain-specific terms to find out what a column "really means". I could just go straight to the things I wanted to: exploration! 
 
-I have used the procjet to get practice exploring, cleaning and experimenting with new and unfamiliar data, as well as visualizing the data in new ways - either by new libraries, or choosing visualisations other then the *standard* (although some standard plots are present in the report)
+I have used the project to get practice exploring, cleaning and experimenting with new and unfamiliar data, as well as visualizing the data in new ways - either by new libraries, or choosing visualisations other then the *standard* (although some standard plots are present in the report)
