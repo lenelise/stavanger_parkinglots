@@ -17,5 +17,7 @@ I decided to explore them further because they had some qualities I found appeal
 I did not have any goal going into this little project, but the outcomes ended up being: 
 
 :sunglasses: learning a lot of new things in python matplotlib library.
+
 :smiling_imp: getting hands on experience exploring and cleaning an unfamiliar and "real" dataset
+
 :bowtie: regaining the faith in my programmatic and mathematical abilities
