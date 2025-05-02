@@ -8,13 +8,13 @@ I decided that whatever I was to spend the next days or weeks on, it should idea
 
 I decided to explore them further because they had some qualities I found appealing: 
 
-:panda_face: the data seems to be pretty much useless for me. I don't drive, and I have only been in Stavanger once in my life. The data seemed to be irrelevant for me in every way possible, which I hoped would mean the pressure for doing something "useful" would be minimal.
+:hatching_chick: the data seems to be pretty much useless for me. I don't drive, and I have only been in Stavanger once in my life. The data seemed to be irrelevant for me in every way possible, which I hoped would mean the pressure for doing something "useful" would be minimal.
 
-:panda_face: the data has a lot of observations: 24 per day for 2 years across 9 different parking lots. So I hoped this meant it had  potential when it came to plotting and finding (visual) patterns.
+:hatching_chick: the data has a lot of observations: 24 per day for 2 years across 9 different parking lots. So I hoped this meant it had  potential when it came to plotting and finding (visual) patterns.
 
-:panda_face: I have no prior knowledge of Stavanger or where these parking lots are relative to the city center, airports, hotels, malls or other landmarks. For example, I would assume a parking lot in the city center has more traffic than some remote parking lot, but I have no clue which lot in the data sets that falls into this category (if any). 
+:hatching_chick: I have no prior knowledge of Stavanger or where these parking lots are relative to the city center, airports, hotels, malls or other landmarks. For example, I would assume a parking lot in the city center has more traffic than some remote parking lot, but I have no clue which lot in the data sets that falls into this category (if any). 
 
-:panda_face: The data is fairly simple. I did not have to spend time reading up on domain-specific terms to find out what a column "really means". I could just go straight to the things I wanted to: exploration! 
+:hatching_chick: The data is fairly simple. I did not have to spend time reading up on domain-specific terms to find out what a column "really means". I could just go straight to the things I wanted to: exploration! 
 
 I did not have any specific goal going into this project, but the outcomes ended up being: 
 
