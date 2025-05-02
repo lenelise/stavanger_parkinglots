@@ -6,7 +6,7 @@ For a long time I had enjoyed it, learning things I had had on my wish-list for 
 
 I decided that whatever I was to spend the next days or weeks on, it should ideally not be *useful*. I figures the more useless of a project, the higher the chances would be of having fun, and re-gaining my motivation (*spoiler alert:* this turned out be a really effective strategy). 
 
-After searching for a good dataset (wihtout having any idea what "good" would mean in this context), I ended up with  two similar data sets from Stavanger, showing the occupancy of different parking lots. 
+I started out searching for a good dataset (wihtout having any idea what "good" would mean in this context), I ended up with  two similar data sets from Stavanger, showing the occupancy of different parking lots. 
 
 I decided to explore them further because they had some qualities I found appealing: 
 - the data seems to be pretty much useless for me. I don't drive, and I have only been in Stavanger once in my life. The data seemed to be irrelevant for me in every way possible, which I hoped would mean the pressure for doing something "useful" would be minimal.
@@ -14,7 +14,7 @@ I decided to explore them further because they had some qualities I found appeal
 - I have no prior knowledge of Stavanger or where these parking lots are relative to the city center, airports, hotels, malls or other landmarks. For example, I would assume a parking lot in the city center has more traffic than some remote parking lot, but I have no clue which lot in the data sets that falls into this category (if any). 
 - The data is fairly simple. I did not have to spend time reading up on domain-specific terms to find out what a column "really means". I could just go straight to the things I wanted to: exploration! 
 
-I did not have any goal going into this little project, but the outcomes ended up being: 
+I did not have any specific goal going into this project, but the outcomes ended up being: 
 
 :sunglasses: learning a lot of new things in python matplotlib library.
 
