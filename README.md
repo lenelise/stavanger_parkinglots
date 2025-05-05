@@ -6,7 +6,7 @@
 
 I decided that whatever I was to spend the next days or weeks on, it should ideally not be *useful*. I figures the more useless of a project, the higher the chances would be of having fun, and re-gaining my motivation (*spoiler alert:* this turned out be a really effective strategy). 
 
-:eyes: I started out searching for a good dataset (wihtout having any idea what "good" would mean in this context), I ended up with  two similar data sets from Stavanger, showing the occupancy of different parking lots. 
+I started out searching for a good dataset (wihtout having any idea what "good" would mean in this context), I ended up with  two similar data sets from Stavanger, showing the occupancy of different parking lots. 
 
 I decided to explore them further because they had some qualities I found appealing: 
 
