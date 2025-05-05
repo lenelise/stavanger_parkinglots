@@ -1,3 +1,5 @@
+# Analyzing the Stavanger parking lot occupancies 
+
 :boom: This project came to life when I, out of the blue, hit a serious case of certification fatigue. At that point I had been in the IT consultant industry for 6 months, and it had been 6 months of continously taking courses, with an explicit expectation that I should take as many certifications as I possible. 
 
 :confounded: For a long time I had enjoyed it, learning things I had had on my wish-list for years. But this early April morning, my brain said stop. After a couple of hours trying to force myself to study for Microsoft's PL-300, I decided that it was time to shift focus, experiment, and play around with the things I already knew, focusing on having fun.
